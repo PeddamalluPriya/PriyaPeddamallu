@@ -29,7 +29,8 @@ I am a **BTech student** who realized that while I love building hardware, I’m
 * **Background:** BTech (IoT & Hardware-Software Integration)
  
 ## 🧠 Why Data?
-I don’t just want to see *what* happened; I want to understand **why** it happened. I’m ready to apply my BTech problem-solving skills to a Junior Data role where curiosity meets code.
+I don’t just want to see *what* happened; I want to understand **why** it happened. 
+I would be deeply grateful for any **mentorship or entry-level opportunities** where I can work hard, learn from the best, and contribute to meaningful projects.
 
 ---
 📫 **[Let's connect on LinkedIn!](https://www.linkedin.com/in/priya-reddy-39b85221b)**
