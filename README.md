@@ -9,6 +9,14 @@ I am a **BTech student** who realized that while I love building hardware, I’m
 
 ## 🚀 Featured Projects
 
+### 🛍️ Myntra: Retail Intelligence & Profit Leakage Analysis
+> **Focus**: E-commerce Analytics • Business Intelligence • Profitability 📊
+
+* **The Challenge**: Analyzed e-commerce data to uncover where revenue and profit were being lost across products, sellers, discounts, campaigns, and returns.
+* **The Analysis**: Used SQL, Python, Excel, and Power BI to analyze sales performance, customer behavior, seller contribution, discount patterns, and return trends.
+* **The Insight**: Identified key profit leakage patterns and revenue risks, turning transactional data into actionable business insights.
+* **The Outcome**: Built an Enterprise Retail Intelligence approach to support smarter pricing, promotions, seller strategy, and customer decisions.
+
 ### 🦯 [Smart Cane: Auditory Feedback for VIPs](https://github.com/PeddamalluPriya)
 > **Achievement:** Selected for **ICAISS 2026** (International Conference) 🏆
 * **The Build:** Developed an IoT device using **MQTT** and **Ultrasonic sensors** for real-time safety.
@@ -27,10 +35,10 @@ I am a **BTech student** who realized that while I love building hardware, I’m
 * **Concepts:** Data Storytelling • Business Strategy • IoT Data Loops
 * **Platforms:** **Kaggle** (Data Science Community) • GitHub • Jupyter Notebooks
 * **Background:** BTech (IoT & Hardware-Software Integration)
- 
+
 ## 🧠 Why Data?
 I don’t just want to see *what* happened; I want to understand **why** it happened. 
 I would be deeply grateful for any **mentorship or entry-level opportunities** where I can work hard, learn from the best, and contribute to meaningful projects.
 
 ---
-📫 **[Let's connect on LinkedIn!](https://www.linkedin.com/in/priya-reddy-39b85221b)**
+📫 **[Let's connect on LinkedIn!](https://www.linkedin.com/in/priyapeddamallu)**
